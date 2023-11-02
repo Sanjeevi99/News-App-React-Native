@@ -1,6 +1,6 @@
 import { create } from "apisauce";
 
-//  apiKey=1033e4cd1d724b57b7752cc0811d455f
+//apiKey=1033e4cd1d724b57b7752cc0811d455f
 const api = create({
     baseURL: 'https://newsapi.org/v2',
   })
